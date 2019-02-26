@@ -1,0 +1,15 @@
+{
+  "name": "weatherjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "homepage": "https://github.com/screpyy96/weatherjs/",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "iosif screpciuc",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
